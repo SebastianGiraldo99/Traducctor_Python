@@ -7,7 +7,7 @@ from deep_translator import GoogleTranslator
 
 # La variable File tiene dos parametros, si queremos sobreescribir el archivo traduccion debemos poner A si queremos eliminarlo y escribir la nueva traduccion usaremos W.
 
-path = r'C:\Users\SEBASTIAN\Desktop\DESARROLLO\Traducctor_Py\text_to_translate.txt'
+path = r'C:\Users\User\text_to_translate.txt'
 def translate_file(path):
     if os.path.isfile(path):
         translater = GoogleTranslator(source='en', target='es').translate_file(path)
