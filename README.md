@@ -8,4 +8,4 @@ Mis aportes o cambios fueron:
 ------
 Muchas gracias por visitar este repositorio y por usar el traducctor hecho con mucho amor :tw-1f49a:
 
-###End
+##End
